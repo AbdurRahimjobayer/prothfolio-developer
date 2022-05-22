@@ -7,6 +7,7 @@ body {
 .top-banner {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 
 }
 
@@ -34,4 +35,18 @@ section {
     padding: 10px 40px;
     border-radius: 6px;
     ;
+}
+.dream{
+    width: 50%;
+    margin-right:6%;
+}
+.dream img{
+    width: 70%;
+    
+}
+.exprience-Area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right ;
+   
 }
